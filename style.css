@@ -19,7 +19,9 @@
 	width: 100%;
 	height: 100%;
 }
-
+.footer-item{
+	margin-bottom: 0rem;
+}
 
 
 // X-Small devices (portrait phones, less than 576px)
